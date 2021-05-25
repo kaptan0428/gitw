@@ -1,3 +1,4 @@
 # gitw
-git learning process
-Added when Revising GIT
+## git learning process
+### Added when Revising GIT
+#### Added when Revising GIT from github
